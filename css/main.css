@@ -1,16 +1,14 @@
 
-body{
-    background-color: antiquewhite;
-}
+
 
 
 
 .team{
     text-align: center;
+    
+    background-color: antiquewhite;
 }
-#paragraph{
-    text-align: center;
-}
+
 i{
     width: 20px;
 }
